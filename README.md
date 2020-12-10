@@ -55,4 +55,4 @@ https://github.com/marcojansen-gmx/Third-Party-API-05.git
 
 The following image shows the web application's appearance and functionality:
 
-![Third party APIs (layout)](https://github.com/marcojansen-gmx/Third-Party-API-05/blob/main/Assets/screenshot.png?raw=true)
+![Third party APIs (layout)](https://github.com/marcojansen-gmx/Third-Party-API-05/blob/main/DayPlanner.png?raw=true)
